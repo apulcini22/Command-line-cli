@@ -1,0 +1,1 @@
+This is a command line tool for managing customer information in a database. It uses Commander for dealing with terminal interactions, Inquirer for terminal prompts to obtain user input and Mongoose to interact with the database.
