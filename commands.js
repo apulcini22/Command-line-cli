@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+// The above command along with some "preferGlobal:true" and "bin: './commands.js'" in package.json file allows you
+  // to run this in there terminal using npm link first to link them together
 const program = require('commander');
 const { prompt } = require('inquirer');
 const { 
